@@ -15,6 +15,7 @@ BUILD_BROKEN_DUP_RULES := true
 TARGET_SCREEN_DENSITY := 360
 
 # Kernel
+TARGET_KERNEL_SOURCE := kernel/xiaomi/nabu
 TARGET_KERNEL_CONFIG := vendor/nabu_defconfig
 
 # Properties
