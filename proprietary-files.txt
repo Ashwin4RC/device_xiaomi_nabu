@@ -393,3 +393,8 @@ vendor/etc/thermal-normal.conf
 vendor/etc/thermal-tgame.conf
 vendor/etc/thermal-video.conf
 vendor/etc/thermald-devices.conf
+
+# Touchfeature
+vendor/bin/hw/vendor.xiaomi.hardware.touchfeature@1.0-service
+vendor/etc/init/vendor.xiaomi.hardware.touchfeature@1.0-service.rc
+vendor/lib64/hw/vendor.xiaomi.hardware.touchfeature@1.0-impl.so
